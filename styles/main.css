@@ -4,16 +4,16 @@ p.small{font-family: verdana;font-size: 9pt;color: #000000;}
 
 list{
   background-color:#A8C9A7;
-  margin:3%;
-  padding:2%;
+  margin:1.5%;
+  padding:1%;
   float:left;
   width:25%;
   height:100px;
   }
 main{
   background-color:#C1C9A7;
-  margin:3%;
-  padding:2%;
+  margin:1.5%;
+  padding:1%;
   float:left;
   width:65%;
   height:100px;
