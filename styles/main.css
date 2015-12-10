@@ -2,7 +2,7 @@ p.large{font-family: verdana;font-size: 13pt;color: #313131;}
 p.normal{font-family: verdana;font-size: 11pt;color: #000000;}
 p.small{font-family: verdana;font-size: 9pt;color: #000000;}
 
-list{
+/* list{
   background-color:#A8C9A7;
   margin:1%;
   padding:10px;
@@ -17,4 +17,20 @@ main{
   float:left;
   width:65%;
   height:500px;
-  }
+  }*/
+main {
+    background-color:#F0DEB3;
+    width:60%;
+    float:left;
+    padding:6px;
+    padding-top:6px;
+    overflow:auto;
+    }
+list {
+    background-color:#EBD8AB;
+    width:30%;
+    float:left;
+    padding:3px;
+    overflow:auto;
+    margin-right:10px;
+    }
