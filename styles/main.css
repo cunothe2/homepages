@@ -5,22 +5,6 @@ p.small{font-family: verdana;font-size: 9pt;color: #000000;}
 a.link{font-family:"Lucida Console";font-size: 14pt;color:black;text-decoration:none;}
 a.visited{font-family:"Lucida Console";font-size: 14pt;color:black;text-decoration:none;}
 a.hover{font-family:"Lucida Console";font-size: 14pt;color:red;text-decoration:none;font-weight:bold;}
-/* section.list{
-  background-color:#A8C9A7;
-  margin:1%;
-  padding:10px;
-  float:left;
-  width:25%;
-  height:500px;
-  }
-section.main{
-  background-color:#C1C9A7;
-  margin:1%;
-  padding:10px;
-  float:left;
-  width:65%;
-  height:500px;
-  }*/
 section {
     background-color:#C1C9A7;
     width:60%;
@@ -36,4 +20,5 @@ section.list {
     padding:3px;
     overflow:auto;
     margin-right:10%;
+    margin left:5%;
     }
