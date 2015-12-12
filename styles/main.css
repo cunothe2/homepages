@@ -2,6 +2,9 @@ p.large{font-family: verdana;font-size: 13pt;color: #313131;}
 p.normal{font-family: verdana;font-size: 11pt;color: #000000;}
 p.small{font-family: verdana;font-size: 9pt;color: #000000;}
 
+a.link{font-family:"Lucida Console";font-size: 14pt;color:black;text-decoration:none;}
+a.visited{font-family:"Lucida Console";font-size: 14pt;color:black;text-decoration:none;}
+a.hover{font-family:"Lucida Console";font-size: 14pt;color:red;text-decoration:none;font-weight:bold;}
 /* section.list{
   background-color:#A8C9A7;
   margin:1%;
