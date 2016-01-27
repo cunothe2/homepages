@@ -1,0 +1,172 @@
+body {
+	background: #FFF URL(tiledbg.jpg);
+	text-align: center;
+	margin: 20px;
+	padding: 0;
+	font: normal 0.8em/1.2em verdana, arial, sans-serif;
+	color: #000;
+	}
+
+#wrapper1 {
+	position: relative;
+	text-align: left;
+	width: 100%;
+	background: #FFF URL(wrapbg.png) repeat-y top right;
+	}
+
+#wrapper2 {
+	position: relative;
+	text-align: left;
+	width: 100%;
+	background: URL(wrapbg2.png) repeat-y top left;
+	}
+
+#header {
+	background: #cc3300;
+	padding: 10px;
+	margin: 0;
+	text-align: center;
+	color: #FFF;
+	border: 1px solid black;
+	border-bottom: none;
+	}
+
+#header h1 {
+	font-size: 200%;
+	}
+
+#maincol {
+	position: relative;
+	margin: 0;
+	padding: 10px;
+	}
+
+#leftcol { 
+	position: relative;
+	top: -10px;
+	left: -10px;
+	float: left;
+	width: 220px;  /* voor IE5/WIN */
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	width:200px; /* eigenlijke waarde */
+	margin: 0 0 -10px 0;
+	padding: 10px;
+	background: #990000;
+	z-index: 100;
+	}
+
+#leftcol ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	}
+
+#leftcol li {
+	color: #000;
+	}
+
+#leftcol a {
+	text-decoration: none;
+	color: #FFF;
+	}
+
+#leftcol li a:hover {
+	color: #000;
+	}
+
+#leftcol h4 {
+	color: #fff;
+	background-color: #660000;
+	border-bottom: 2px solid #000;
+	text-align: center;
+	padding: 2px;
+	}
+
+#rightcol {
+	position: relative;
+	top: -10px;
+	right:-10px;
+	float: right;
+	width: 220px;  /* voor IE5/WIN */
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	width: 200px; /* eigenlijke waarde */
+	margin: 0 0 -10px 0;
+	padding: 10px;
+	background: #990000;
+	z-index: 99;
+	color: #FFF;
+	}
+
+#rightcol ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	}
+
+#rightcol li {
+	color: #FFF;
+
+	}
+
+#rightcol a {
+	text-decoration: none;
+	color: #FFF;
+	}
+
+#rightcol li a:hover {
+	color: #000;
+	}
+
+#rightcol h4 {
+	color: #fff;
+	background-color: #660000;
+	border-bottom: 2px solid #000;
+	text-align: center;
+	padding: 2px;
+	}
+
+#centercol {
+	position: relative;
+	padding: 0 240px;
+	}
+
+#centercol a {
+	color: #990000;
+	}
+
+#centercol a:hover {
+	border-bottom: 1px solid;
+	color: #cc0000;
+	}
+
+#centercol h1 {
+	background-color: #cc0000;
+	color: #FFF;
+	text-align: center;
+	padding: 10px;
+	border-bottom: 4px double black;
+	border-top: 3px double black;
+	font-size: 160%;
+	}
+
+#footer {
+	position: relative;
+	top: 1px;
+	background: #b23600;
+	width: 100%;
+	clear: both;
+	margin: 0;
+	padding: 1% 0;
+	text-align: right;
+	color: #ffcc99;
+	}
+
+#footer a {
+	color: #ffb265;
+	}
+
+#footer a:hover {
+	color: #ff9c39;
+	}
