@@ -3,14 +3,14 @@
 	position: relative;
 	text-align: left;
 	width: 100%;
-	background: #FFF URL(wrapbg.png) repeat-y top right;
+	background: #FFF URL(http://gildegids.nl/wrapbg.png) repeat-y top right;
 	}
 
 #wrapper2 {
 	position: relative;
 	text-align: left;
 	width: 100%;
-	background: URL(wrapbg2.png) repeat-y top left;
+	background: URL(http://gildegids.nl/wrapbg2.png) repeat-y top left;
 	}
 
 #header {
