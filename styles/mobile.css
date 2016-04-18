@@ -6,17 +6,19 @@ p.small{font-family: verdana;font-size: 7pt;color: #000000;}
 a.link{font-family:"verdana";font-size: 12pt;color:black;text-decoration:none;}
 a.visited{font-family:"verdana";font-size: 12pt;color:black;text-decoration:none;}
 a.hover{font-family:"verdana";font-size: 12pt;color:red;text-decoration:none;font-weight:bold;}
+
 section.colorpicker {
-    background-color:#C1C9A7;
-    width:80%;
-    margin-left:10%;
-    margin-right:10%;
-    overflow:auto;
+    background-color: #C1C9A7;
+    width: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    overflow: auto;
     }
 section.list {
-    background-color:#A8C9A7;
-    width:0%;
-    margin-left:0%;
-    margin-right:0%;
-    overflow:auto;
+    background-color: #A8C9A7;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 8px;
+    overflow: auto;
     }
